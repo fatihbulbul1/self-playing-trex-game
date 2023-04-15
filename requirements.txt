@@ -1,0 +1,6 @@
+keras==2.12.0rc1
+keyboard==0.13.5
+mss==7.0.1
+numpy==1.24.2
+Pillow==9.5.0
+scikit_learn==1.2.2
